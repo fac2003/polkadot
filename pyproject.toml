@@ -1,13 +1,13 @@
 [tool.poetry]
 name = "pytorch-polkadots"
-version = "0.1.0"
+version = "0.1.1"
 description = "Provides the ability to construct a simulated image dataset on the fly with different characteristics."
 authors = ["Fabien  Campagne <fac2003@gmail.com>"]
 
 license = "MIT"
 readme = "README.md"
-homepage = "https://github.com/fac2003/polkadot"
-repository = "https://github.com/fac2003/polkadot"
+homepage = "https://github.com/fac2003/pytorch_polkadots"
+repository = "https://github.com/fac2003/pytorch_polkadots"
 keywords = ["machine learning", "simulated datasets", "images"]
 classifiers = [
     "Intended Audience :: Developers",
