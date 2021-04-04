@@ -1,3 +1,6 @@
+![PyPI](https://img.shields.io/pypi/v/pytorch-polkadots.svg)
+![PyPI](https://img.shields.io/pypi/pyversions/pytorch-polkadots.svg)
+![PyPI](https://img.shields.io/github/license/fac2003/pytorch_polkadots.svg)
 ## Overview
 This project provides the ability to construct a simulated image dataset
 on the fly with different characteristics. While it is possible to simulate
