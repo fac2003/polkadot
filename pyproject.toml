@@ -1,8 +1,7 @@
 [tool.poetry]
 name = "polkadots"
 version = "0.1.0"
-description = """Provides the ability to construct a simulated image dataset
-on the fly with different characteristics."""
+description = "Provides the ability to construct a simulated image dataset on the fly with different characteristics."
 authors = ["Fabien  Campagne <fac2003@gmail.com>"]
 
 license = "MIT"
