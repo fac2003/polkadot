@@ -6,6 +6,17 @@ adjust dataset parameters to yields datasets that much more challenging to train
 against.
 
 ## Installation
+
+### With poetry
+
+```bash
+poetry install 
+```
+### With pip
+```bash
+pip install pytorch-polkadots 
+```
+### From cloned repo
 ```bash
 pip install -r requirements.txt
 ```

@@ -1,7 +1,7 @@
 import pytest
 import torch
 
-from polkadots.datasets import MakeImages, PolkaDotDataset
+from pytorch_polkadots.datasets import MakeImages, PolkaDotDataset
 
 
 def test_image_maker():
